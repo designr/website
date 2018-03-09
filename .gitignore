@@ -1,0 +1,9 @@
+~*
+*~
+*.exe
+*.dmg
+*.tmp
+*.swp
+*.do
+node_modules/
+
