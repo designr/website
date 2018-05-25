@@ -20,7 +20,7 @@ header div.welcome {
 }
 
 section.content {
-  font-family: 'Gill Sans', 'Advent Pro', sans-serif;
+  font-family: 'Sunflower', sans-serif;
   font-weight: 200;
   font-size: 16px;
   line-height: 1.8em;
@@ -41,4 +41,13 @@ footer {
   width: 100%;
   display: block;
   padding: 0 0 20px 0;
+}
+
+/* elements */
+code {
+  font-size: smaller;
+  background-color: #FED;
+  display: inline-block;
+  padding: 0 3px;
+  border-radius: 2px;
 }
