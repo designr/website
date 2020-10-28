@@ -7,3 +7,4 @@
 *.do
 node_modules/
 
+designr-vscode-ws.code-workspace
